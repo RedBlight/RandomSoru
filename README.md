@@ -1,4 +1,4 @@
-![Alt text](img/biglogo.png "PHP")
+# RandomSoru
 
 RandomSoru is a random educational question generation engine. It generates random questions from questions templates.
 
@@ -31,3 +31,10 @@ Here is a generated question from another topic:
 
 And more and more generated variants of the same question template:
 ![Alt text](img/ss5.png "PHP")
+
+## How to set it up?
+1) Create the MySQL database with the given .sql file.
+2) .sql file already has some entries in it, clean them as you wish.
+3) Modify the necessary places in the code for the database credentials.
+4) You need to have a ReCaptcha account, and write your private key to the Class_Database.php. 
+5) Put all the files to your server, everything works correctly within the PHP version 5.3.26.
