@@ -1,4 +1,4 @@
-# RandomSoru
+![Alt text](img/biglogo.png "PHP")
 
 RandomSoru is a random educational question generation engine. It generates random questions from questions templates.
 
