@@ -15,7 +15,7 @@ they get a random question of that topic generated for them from question templa
 
 Question templates can be added from the admin panel, by the admin.
 
-To make a question template, first you generate some random variables using PHP:
+To make a question template, first, you define some random variables using PHP:
 ![Alt text](img/ss1.png "PHP")
 
 Then, you write the details (graphics, question texts, answers etc.) of the question using SVG, HTML and LaTeX.
@@ -26,7 +26,7 @@ When generating the question, system will replace {var} with the corresponding v
 Here is an example of a generated question:
 ![Alt text](img/ss3.png "PHP")
 
-Here is a generated question from another topic, :
+Here is a generated question from another topic:
 ![Alt text](img/ss4.png "PHP")
 
 And more and more generated variants of the same question template:
