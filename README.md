@@ -11,7 +11,7 @@ I thought, these questions can be generalised and expressed with a template, and
 2) .sql file already has some entries in it, clean them as you wish.
 3) Modify the necessary places in the code for the database credentials.
 4) You need to have a ReCaptcha account, and write your private key to the Class_Database.php. 
-5) Put all the files to your server, everything works correctly within the PHP version 5.3.26.
+5) Put all the files to your server, everything works correctly with the PHP version 5.3.26.
  
 ## How does it work?
 
