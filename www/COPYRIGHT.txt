@@ -1,0 +1,63 @@
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// COPYRIGHTS - All of them are seperated from code files in order to speed up file transmission.
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+
+/*!
+ * jQuery JavaScript Library v1.9.1
+ * http://jquery.com/
+ *
+ * Includes Sizzle.js
+ * http://sizzlejs.com/
+ *
+ * Copyright 2005, 2012 jQuery Foundation, Inc. and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2013-2-4
+ */
+
+/*! 
+ * CSS3 Finalize - v3.4.0 - 2013-03-29 - Automatically add vendor prefixes. 
+ * https://github.com/codler/jQuery-Css3-Finalize
+ * Copyright (c) 2013 Han Lin Yap http://yap.nu; http://creativecommons.org/licenses/by-sa/3.0/
+ */
+
+/*! 
+ * Base64
+ * Copyright Vassilis Petroulias [DRDigit]
+ * http://jsbase64.codeplex.com/
+ */
+
+/*! 
+ * Get Cookies
+ * Thanks to Gumbo, for his "bullet-proof" code.
+ * http://stackoverflow.com/questions/4003823/javascript-getcookie-functions
+ */
+
+/*! 
+ * Prevent Backspace
+ * Thanks to erikkallen, for his great code.
+ * http://stackoverflow.com/questions/4003823/javascript-getcookie-functions
+ */
+
+/*! 
+ * Ace Editor
+ * Distributed under the BSD license.
+ * Copyright (c) 2010, Ajax.org B.V.
+ * All rights reserved. 
+ */
+
+/*!
+ * jScrollPane - v2.0.14 - 2013-05-01
+ * http://jscrollpane.kelvinluck.com/
+ * Copyright (c) 2010 Kelvin Luck
+ * Dual licensed under the MIT or GPL licenses.
+ */
+
+/*!
+ * jQuery Mousewheel
+ * Copyright (c) 2013 Brandon Aaron (http://brandonaaron.net)
+ * Thanks to: http://adomas.org/javascript-mouse-wheel/ for some pointers.
+ * Thanks to: Mathias Bank(http://www.mathias-bank.de) for a scope bug fix.
+ * Thanks to: Seamus Leahy for adding deltaX and deltaY
+ */
