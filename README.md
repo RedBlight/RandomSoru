@@ -16,7 +16,7 @@ they get a random question of that topic generated for them from question templa
 Question templates can be added from the admin panel, by the admin.
 
 To make a question template, first you generate some random variables using PHP:
-![Alt text](img\ss1.jpg "PHP")
+![Alt text](img/ss1.png "PHP")
 
 asd
 
