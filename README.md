@@ -15,7 +15,7 @@ I thought, these questions can be generalised and expressed with a template, and
  
 ## How does it work?
 
-This a website that users can solve random questions from the topics available in the site. When user selects a topic, they get a random question of that topic generated for them from question templates, and then displayed to them.
+This is a website that users can solve random questions from the topics available in the site. When user selects a topic, they get a random question of that topic generated for them from question templates, and then displayed to them.
 
 Question templates can be added from the admin panel, by the admin.
 
